@@ -65,5 +65,9 @@ These findings provide valuable strategic considerations for both team managemen
 - Yen Phan
 - Obtin Zandian
 
+## Sources:
+- https://www.kaggle.com/datasets/ricardotorresheredia/nba-stats-from-the-last-71-years
+- https://www.cnbc.com/2021/10/18/nba-2021-2022-season-10-billion-revenue-tv-viewership-rebound.html
+- https://www.forbes.com/sites/mikeozanian/2022/10/27/nba-team-values-2022-for-the-first-time-in-two-decades-the-top-spot-goes-to-a-franchise-thats-not-the-knicks-or-lakers/?sh=1923f1911cce
 
  
