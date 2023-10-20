@@ -11,12 +11,16 @@ The NBA, founded in 1946, is the world's premier professional basketball league.
 
 
 ## Data Exploratory
+
 **1. Data Source:** The dataset has been obtained from Kaggle, specifically scraped from the NBA Official Leaders page.
+
 **2. Dataset Characteristics:**
+
 - Each row is organized by player, season, and season type.
 - Total of 31 Columns and 33,330 rows.
 - Contains 6 Categorical Variables, 1 Datetime Variable, 6 Continuous Variables, and 18 Discrete Variables.
 - Notes: O/D Rebounds, Steals, and Blocks are null before the 1973-74 season. Similarly, 3-Point Statistics and Turnovers are null before the 1979-80 season.
+- 
 **3. Struture of EDA:**
   - Basic Data Cleaning: Address missing values and perform necessary data type conversions to ensure data integrity.
   - Introduce New Metric: Define a new metric called "Points Per Shot" (PPS) to assess player efficiency.
@@ -38,8 +42,11 @@ The graph illustrates a strong correlation between a player's Points Per Shot (P
 <div align="center">
   <img src="Images/image_4.png" width="800" height="821" alt="Image 1">
 </div>
+
 This graph demonstrates that both outlier and normal players achieve similar success rates, averaging around 35-40% for field goals and approximately 70% for free throw attempts. However,  what sets top players apart is their remarkable number of attempts, with twice as many field goal attempts and three times as many free throw attempts compared to their counterparts.(This graph pertains to the Regular Season, but a similar trend is observed in the Playoff Season).
+
 ## Outcomes:
+
 The exploratory data analysis reveals several key insights:
 - **Impact of Top Players:**
   The presence of two top players on a team demonstrates a strong correlation with an increased the probability of winning.
@@ -57,12 +64,6 @@ These findings provide valuable strategic considerations for both team managemen
 ## Authors:
 - Yen Phan
 - Obtin Zandian
-<div align="center">
-  <img src="Images/IMG_4163.HEIC" width="300" height="225" alt="Image 1">
-  <img src="Images/IMG_4166.HEIC" width="300" height="225" alt="Image 2">
-  <img src="Images/IMG_4170.HEIC" width="300" height="225" alt="Image 3">
-</div>
-
 
 
  
