@@ -30,17 +30,18 @@ The NBA, founded in 1946, is the world's premier professional basketball league.
 
 ## Results and Visualizations
 <div align="center">
-  <img src="Images/image_2.png" width="800" height="375" alt="Image 1">
+  <img src="Images/image_2.png" width="667" height="313" alt="Image 1">
 </div>
 The graph illustrates a strong correlation between a player's Points Per Shot (PPS) and the team's performance, highlighting the significant influence of individual player performance on the overall success of the team.
 
 <div align="center">
-  <img src="Images/image_3.png" width="800" height="500" alt="Image 1">
+  <img src="Images/image_3.png" width="667" height="417" alt="Image 1">
   
 </div>The graph displays a Cumulative Distribution Function (CDF) representing the presence of top players in top teams during the Regular Season. Notably, 90% of outlier teams possess up to 2 outlier players, underscoring the essential role of exceptional talented players in propelling a team to the highest levels of performance.
 
+
 <div align="center">
-  <img src="Images/image_4.png" width="800" height="821" alt="Image 1">
+  <img src="Images/image_4.png" width="600" height="610" alt="Image 1">
 </div>
 
 This graph demonstrates that both outlier and normal players achieve similar success rates, averaging around 35-40% for field goals and approximately 70% for free throw attempts. However,  what sets top players apart is their remarkable number of attempts, with twice as many field goal attempts and three times as many free throw attempts compared to their counterparts.(This graph pertains to the Regular Season, but a similar trend is observed in the Playoff Season).
