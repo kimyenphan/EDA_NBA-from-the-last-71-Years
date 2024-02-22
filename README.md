@@ -5,7 +5,7 @@ The NBA, founded in 1946, is the world's premier professional basketball league.
 ## Project Description
 - In this project, we use Python to delve into historical NBA statistics spanning 71 years to extract valuable insights. The context is that we are managing an NBA team with a primary objective of maximizing revenue. The central question driving this project is: How can we strategically enhance revenue generation? 
 - Due to the absence of direct revenue data in the dataset, you've conducted desk research and identified a strong correlation between winning rate and revenue. As a result, you've chosen to prioritize winning rate as the key metric to pursue for revenue enhancement.
-<div align="left">
+<div align="center">
   <img src="Images/image_1.png" width="400" height="300" alt="Image 1">
 </div>
 
