@@ -20,12 +20,14 @@ The NBA, founded in 1946, is the world's premier professional basketball league.
 - Total of 31 Columns and 33,330 rows.
 - Contains 6 Categorical Variables, 1 Datetime Variable, 6 Continuous Variables, and 18 Discrete Variables.
 - Notes: O/D Rebounds, Steals, and Blocks are null before the 1973-74 season. Similarly, 3-Point Statistics and Turnovers are null before the 1979-80 season.
-- 
+
 **3. Struture of EDA:**
   - Basic Data Cleaning: Address missing values and perform necessary data type conversions to ensure data integrity.
   - Introduce New Metric: Define a new metric called "Points Per Shot" (PPS) to assess player efficiency.
   - Define Criteria for Top Players and Teams: Establish specific criteria or metrics for identifying top-performing players and teams.
   - Analyze Relationship: Investigate the correlation between the number of top-performing players and the overall winning rate of the top teams.
+
+    
 **4. Libraries Used:** Numpy, Pandas, Matplotlib, Seaborn
 
 ## Results and Visualizations
